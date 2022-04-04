@@ -1,0 +1,10 @@
+*.vscode
+*.settings
+*.vscode/
+*.settings/
+.exe
+*.exe
+*/.exe
+*.vscode
+.git
+.vscode
